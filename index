@@ -6,22 +6,23 @@
     <title>Git commands</title>
 </head>
 <body>
-    <p>git status //checks all the files
-        git add . //tracks all the files
-        git commit -m "dialogue"//commits all tracked files
-        git merge
-        git squash
-        ls
-        mkdir
-        cd
-        git cherry-pick
-        rm -rf .git //deletes the repository
-        git clone https://link.git repositoryname
-        git log //use q and enter to exit
-        git log -p //shows what is deleted along with commit
-        git branch
-        git checkout Brnach_name
+    <ul>
+        <li>git status //checks all the files</li>
+        <li>git add . //tracks all the files</li>
+        <li>git commit -m "dialogue"//commits all tracked files</li>
+        <li>git merge</li>
+        <li>git squash</li>
+        <li>ls</li>
+        <li>mkdir</li>
+        <li>cd</li>
+        <li>git cherry-pick</li>
+        <li>rm -rf .git //deletes the repository</li>
+        <li>git clone https://link.git repositoryname</li>
+        <li>git log //use q and enter to exit</li>
+        <li>git log -p //shows what is deleted along with commit</li>
+        <li>git branch</li>
+        <li>git checkout Branch_name</li>
          
-        </p>
+    </ul>
 </body>
 </html>
