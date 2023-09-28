@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Git commands</title>
+</head>
+<body>
+    <p>git status //checks all the files
+        git add . //tracks all the files
+        git commit -m "dialogue"//commits all tracked files
+        git merge
+        git squash
+        ls
+        mkdir
+        cd
+        git cherry-pick
+        rm -rf .git //deletes the repository
+        git clone https://link.git repositoryname
+        git log //use q and enter to exit
+        git log -p //shows what is deleted along with commit
+        git branch
+        git checkout Brnach_name
+         
+        </p>
+</body>
+</html>
